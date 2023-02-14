@@ -1,5 +1,3 @@
-// Deposit section
-
 function getInputValueById(inputId) {
     let inputField = document.getElementById(inputId);
     let inputFieldValue = parseFloat(inputField.value);
